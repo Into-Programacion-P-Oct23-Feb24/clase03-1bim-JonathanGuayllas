@@ -23,10 +23,10 @@ public class Ejemplo01 {
         
         Scanner entrada = new Scanner(System.in);
         
-        System.out.println("Ingrese su nombre por favor");
+        System.out.println("Jonathan");
         String nombre = entrada.nextLine();
         
-        System.out.println("Ingrese su apellido por favor");
+        System.out.println("Guayllas");
         String apellido = entrada.nextLine();
         
         System.out.println("Nombre ingresado es:" + nombre);
